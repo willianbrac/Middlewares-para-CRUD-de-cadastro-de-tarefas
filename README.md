@@ -29,6 +29,15 @@
   <p>Faça o comando 'yarn test' para realizar os testes com jest</p>
 </div>
 
+### Rotas
+- <p><i>get('/users/:id',...)</i>          Busca o user pelo id </p>
+- <p><i>patch('/users/:id/pro',...)</i>    Atualiza o user para o plano pro </p>
+- <p><i>get('/todos',...)</i>              Lista todos os todos </p>
+- <p><i>post('/todos',...)</i>             Cria um todo </p>
+- <p><i>put('/todos/:id',...)</i>          Atualiza todo o todo </p>
+- <p><i>patch('/todos/:id/done',...)</i>   Atualiza parte um todo </p>
+- <p><i>delete('/todos/:id',...)</i>       Deleta um todo </p>
+
 
 
 
