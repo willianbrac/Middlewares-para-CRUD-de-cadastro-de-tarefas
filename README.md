@@ -1,4 +1,4 @@
-## Nesta API foram desenvolvidos Middlewares para um CRUD de Users
+## Nesta API foram desenvolvidos Middlewares para um CRUD de Cadastro de tarefas de um User
 
 ## Tecnologias envolvidas:
   Javascript, Jest, NodeJS, Banco de dados em Memória
